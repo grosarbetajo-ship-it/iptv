@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mux.demo" group-title="Demo",Mux Test Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="apple.demo" group-title="Demo",Apple BipBop
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="bbb.demo" group-title="Movies",Big Buck Bunny
+https://test-streams.mux.dev/bbb-360p-playlist.m3u8
